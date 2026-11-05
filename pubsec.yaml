@@ -1,0 +1,8 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  thinking_orbs_flutter: ^1.0.0   # The moving dotted orb
+  shared_preferences: ^2.2.2      # Save API key locally
+  http: ^1.1.0                    # OpenRouter API calls
+  speech_to_text: ^6.6.0          # Voice input
+  flutter_tts: ^4.0.2             # Silly's voice output
